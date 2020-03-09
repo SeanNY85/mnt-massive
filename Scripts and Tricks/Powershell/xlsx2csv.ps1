@@ -6,8 +6,8 @@
        )
 
 #TESTING
-$SourcePath="C:\Clients\Triangle\Source";
-$Destpath="C:\Clients\Triangle\Destination"
+#$SourcePath="C:\Clients\Triangle\Source";
+#$Destpath="C:\Clients\Triangle\Destination"
 
 #Continue with errors
 $ErrorActionPreference= 'silentlycontinue'
