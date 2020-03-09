@@ -43,7 +43,8 @@ ForEach ($file in $files)
 
 $WorkBook.Close() 
 $Excel.Quit() 
-Stop-Process -processname EXCEL
+#Testing
+#Stop-Process -processname EXCEL
 }
 Read-host -prompt "The convetion has completed.  Press ENTER to close..."
 clear-host;
